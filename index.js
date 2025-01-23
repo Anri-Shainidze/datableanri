@@ -8,9 +8,9 @@ fetch('https://jsonplaceholder.typicode.com/users')
       const inaRow = document.createElement('tr');
       yervinshax1.appendChild(inaRow);
       inaRow.innerHTML = `
-      <td><img src="images/rectangle 79.png" alt="Image" /></td>
-      <td><input type="checkbox" /></td>
-      <td style = "display:flex;
+        <td><input type="checkbox" /></td>
+        <td><img src="images/rectangle 79.png" alt="Image" /></td>
+        <td style = "display:flex;
         align-items:left;
         flex-direction:column;
         justify-content:center;

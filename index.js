@@ -18,8 +18,8 @@ fetch('https://jsonplaceholder.typicode.com/users')
           user.name
         }</td>
         <td>704.555.0127</td>
-        <td>August 2, 2013</td>
-        <td>$17.0</td>
+        <td>September 4, 2023</td>
+        <td>$131.0</td>
         <td><button style = "background-color:#DC3545;
         color:white;
         border-radius:15px;

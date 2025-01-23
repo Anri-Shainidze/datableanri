@@ -13,8 +13,36 @@ body {
     box-sizing: border-box;
 }
 
-
-
+.span1{
+    position: absolute;
+    top: 35px; 
+    left: 27% 
+}
+.span2{
+    position: absolute;
+    top: 35px;
+    left: 59%;
+}
+.span3{
+    position: absolute; 
+    top: 35px; 
+    left: 72%;
+}
+.span4{
+    position: absolute; 
+    top: 20px; 
+    left: 100%;
+}
+.span5{
+    position: absolute; 
+    top: 35px; 
+    left: 95%;
+}
+.span6{
+    position: absolute; 
+    top: 35px; 
+    left: 43%;
+}
 table {
     width: 100%;
     border-collapse: collapse;
